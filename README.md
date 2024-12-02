@@ -21,7 +21,7 @@ A simple command-line banking system built in Python that allows users to create
 ## Getting Started
 
 ### Prerequisites
-- Python 3.x installed on your system.
+- Python 3.13.0 installed on your system.
 
 ### Running the Program
 1. Clone the repository:
