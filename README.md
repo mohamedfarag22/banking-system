@@ -26,4 +26,4 @@ A simple command-line banking system built in Python that allows users to create
 ### Running the Program
 1. Clone the repository:
    ```bash
-   git clone https: https://github.com/mohamedfarag22/refactored-telegram/blob/main/Bank_System.py
+   git clone https:https://github.com/mohamedfarag22/banking-system.git
